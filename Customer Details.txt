@@ -12,3 +12,4 @@
     Name: Dev                 Phone No. +91-2147483647          Address: 
     Name: Dhruv Patel         Phone No. +91-1234561234          Address: Gandhidham
     Name: Vaishali Soni       Phone No. +91-1231231233          Address: Rajkot
+    Name: Manish              Phone No. +91-1231231223          Address: Bengaluru
